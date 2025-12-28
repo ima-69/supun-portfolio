@@ -75,6 +75,17 @@ export function Leadership() {
                 </p>
               </div>
             </li>
+            <li className="flex gap-4">
+              <div className="mt-1.5 h-2 w-2 rounded-full bg-cyan-400 flex-shrink-0" />
+              <div>
+                <h4 className="text-slate-200 font-medium">
+                  Champions of UOK Robot Battles 2024
+                </h4>
+                <p className="text-slate-400 text-sm">
+                  University of Kelaniya
+                </p>
+              </div>
+            </li>
           </ul>
         </div>
       </div>
