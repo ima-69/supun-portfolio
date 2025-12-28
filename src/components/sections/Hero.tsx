@@ -46,7 +46,7 @@ export function Hero() {
               Supun Tharaka.
             </motion.h1>
 
-            <motion.h2 className="text-3xl sm:text-5xl font-bold text-slate-400 mb-6" initial={{
+            <motion.h2 className="text-xl sm:text-2xl lg:text-3xl font-semibold text-slate-400 mb-6" initial={{
             opacity: 0,
             y: 10
           }} animate={{
